@@ -5,6 +5,7 @@ function App() {
     <div>
       <Example/>
       <Example/>
+      <Example/>
     </div>
   )
 }
